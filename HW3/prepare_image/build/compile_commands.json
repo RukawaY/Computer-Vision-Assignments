@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/rukaway/Desktop/CV_HW3/prepare_image/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -isystem /opt/homebrew/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -o CMakeFiles/prepare_data.dir/prepare_data.cpp.o -c /Users/rukaway/Desktop/CV_HW3/prepare_image/prepare_data.cpp",
+  "file": "/Users/rukaway/Desktop/CV_HW3/prepare_image/prepare_data.cpp",
+  "output": "CMakeFiles/prepare_data.dir/prepare_data.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+/Users/rukaway/Desktop/CV_HW4/build/CMakeFiles/calibration_birdeye.dir
+/Users/rukaway/Desktop/CV_HW4/build/CMakeFiles/edit_cache.dir
+/Users/rukaway/Desktop/CV_HW4/build/CMakeFiles/rebuild_cache.dir

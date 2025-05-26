@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/rukaway/Desktop/CV_HW3/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -isystem /opt/homebrew/include -isystem /opt/homebrew/include/eigen3  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -o CMakeFiles/train.dir/train.cpp.o -c /Users/rukaway/Desktop/CV_HW3/train.cpp",
+  "file": "/Users/rukaway/Desktop/CV_HW3/train.cpp",
+  "output": "CMakeFiles/train.dir/train.cpp.o"
+},
+{
+  "directory": "/Users/rukaway/Desktop/CV_HW3/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -isystem /opt/homebrew/include -isystem /opt/homebrew/include/eigen3  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -o CMakeFiles/test.dir/test.cpp.o -c /Users/rukaway/Desktop/CV_HW3/test.cpp",
+  "file": "/Users/rukaway/Desktop/CV_HW3/test.cpp",
+  "output": "CMakeFiles/test.dir/test.cpp.o"
+}
+]

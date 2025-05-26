@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/rukaway/Desktop/CV_HW2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -o CMakeFiles/ellipse_fit.dir/ellipse_fit.cpp.o -c /Users/rukaway/Desktop/CV_HW2/ellipse_fit.cpp",
+  "file": "/Users/rukaway/Desktop/CV_HW2/ellipse_fit.cpp",
+  "output": "CMakeFiles/ellipse_fit.dir/ellipse_fit.cpp.o"
+}
+]

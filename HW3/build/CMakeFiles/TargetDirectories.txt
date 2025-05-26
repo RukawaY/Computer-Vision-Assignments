@@ -1,0 +1,4 @@
+/Users/rukaway/Desktop/CV_HW3/build/CMakeFiles/train.dir
+/Users/rukaway/Desktop/CV_HW3/build/CMakeFiles/test.dir
+/Users/rukaway/Desktop/CV_HW3/build/CMakeFiles/edit_cache.dir
+/Users/rukaway/Desktop/CV_HW3/build/CMakeFiles/rebuild_cache.dir

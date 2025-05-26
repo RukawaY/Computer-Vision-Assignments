@@ -1,0 +1,3 @@
+/Users/rukaway/Desktop/CV_HW2/build/CMakeFiles/ellipse_fit.dir
+/Users/rukaway/Desktop/CV_HW2/build/CMakeFiles/edit_cache.dir
+/Users/rukaway/Desktop/CV_HW2/build/CMakeFiles/rebuild_cache.dir

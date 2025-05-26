@@ -1,0 +1,3 @@
+/Users/rukaway/Desktop/CV_HW1/build/CMakeFiles/video_maker.dir
+/Users/rukaway/Desktop/CV_HW1/build/CMakeFiles/edit_cache.dir
+/Users/rukaway/Desktop/CV_HW1/build/CMakeFiles/rebuild_cache.dir
